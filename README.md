@@ -47,3 +47,5 @@ This is a **basic weather app** created as a learning project. Future improvemen
 * Improved UI animations
 * Unit toggle (°C / °F)
 * Better design for mobile use
+
+Made with the assistance of YouTuber Dave Grey. 
